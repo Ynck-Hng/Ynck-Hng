@@ -10,6 +10,7 @@ Currently a student at Ecole O'Clock !
 - 🌱 Currently learning ReactJS
 - ⚡ Dynamic, perfectionist and enthusiatic !
 - :video_game: Massive fan of videos games regardless of genres
+- :email: You can email me at : ynckhuang@gmail.com
 
 Skills
 ---------------------------------------
