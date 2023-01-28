@@ -1,6 +1,6 @@
 # Hi there ! Welcome to my github profile !👋
 
-After obtaining a master's degree in philosophy, I have decided to dive into web development as a fullstack web developper specializing in JavaScript starting October 2022 :tada:
+After obtaining a master's degree in philosophy, I have decided to dive into web development as a fullstack web developper specializing in JavaScript October 2022. :tada:
 
 Currently a student at Ecole O'Clock !
 
