@@ -21,4 +21,5 @@ Skills
 ![image](https://user-images.githubusercontent.com/115977341/213268782-c620c3a9-f321-4e08-90bd-d545336be168.png)
 ![image](https://user-images.githubusercontent.com/115977341/213268807-b2716f0c-9999-4c56-ba22-5ea47c66f013.png)
 ![image](https://user-images.githubusercontent.com/115977341/213269127-988cd477-75a9-48ea-a82e-99fbd5f8024c.png)
+![image](https://user-images.githubusercontent.com/115977341/215279608-a7cf27aa-53d7-4159-8198-c592cf006e9a.png)
 
