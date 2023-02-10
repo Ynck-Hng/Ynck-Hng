@@ -1,18 +1,13 @@
 # <div align="center">👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=0700&color=F7F7F7&vCenter=true&width=435&height=35&lines=Hi+there%2C+I'm+Ynck-Hng+!;Welcome+to+my+profile+!)](https://git.io/typing-svg) :wave: </div>
 
-Web developer specializing in ReactJS and NodeJS ! :tada:
-
-Focusing on clean code, security and performances :thumbsup:
-
-Currently a student at Ecole O'Clock !
-
 --------
 ### About me
-
-- 🌍 Living in France !
+- 💻 Web developer specializing in ReactJS and NodeJS !
+- 📖 Currently studying at Ecole O'Clock
+- 🌍 Living in France 
 - 🌱 Currently learning TypeScript
-- ⚡ Dynamic, perfectionist and enthusiatic !
-- :video_game: Massive fan of videos games regardless of genres
+- ⚡ Dynamic, perfectionist, enthusiatic and joyful !
+- :video_game: Video games enjoyer !
 
 <a href="https://github.com/Ynck-Hng" target="_blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/yannick-huang/" target="_blank">![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
@@ -21,8 +16,6 @@ Currently a student at Ecole O'Clock !
 ### Skills
 
 <div align="center" width="400px">
-  
-  ### Technologies 
 
   | Front-End | Technologies |
   |--|--|
