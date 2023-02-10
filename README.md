@@ -1,4 +1,4 @@
-# 👋 Hi there ! Welcome to my github profile !
+# <div align="center">👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=0700&color=F7F7F7&vCenter=true&width=435&height=35&lines=Hi+there%2C+I'm+Ynck-Hng+!;Welcome+to+my+profile+!)](https://git.io/typing-svg) :wave: </div>
 
 Web developer specializing in ReactJS and NodeJS ! :tada:
 
@@ -20,7 +20,8 @@ Currently a student at Ecole O'Clock !
 ---------
 # Skills
 
-
+<div align="center">
+  
   ### Front-End :
 
   | Front-End | Technologies |
@@ -53,3 +54,4 @@ Currently a student at Ecole O'Clock !
   | Communication | 💬 Professional and friendly communications to achieve the best ! (FR / EN)󠁥|
   | Meditation | :seedling: Appreciate what life has to offer and grow as a person |
   | Humourous | 😎 A few jokes here and there to make the mood livelier |
+</div>
