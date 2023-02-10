@@ -1,4 +1,4 @@
-# <div align="center">👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=0700&color=F7F7F7&vCenter=true&width=435&height=35&lines=Hi+there%2C+I'm+Ynck-Hng+!;Welcome+to+my+profile+!)](https://git.io/typing-svg) :wave: </div>
+# <div align="center">👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=0700&color=F7F7F7&vCenter=true&width=430&height=35&lines=Hi+there%2C+I'm+Ynck-Hng+!;Welcome+to+my+profile+!)](https://git.io/typing-svg) :wave: </div>
 
 --------
 ### About me
