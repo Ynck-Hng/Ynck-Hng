@@ -3,10 +3,15 @@
 --------
 ### About me
 - 💻 Web developer specializing in ReactJS and NodeJS !
+
 - 📖 Currently studying at Ecole O'Clock
+
 - 🌍 Living in France 
+
 - 🌱 Currently learning TypeScript
+
 - ⚡ Dynamic, perfectionist, enthusiatic and joyful !
+
 - :video_game: Video games enjoyer !
 
 <a href="https://github.com/Ynck-Hng" target="_blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
