@@ -29,15 +29,18 @@
   | ReactJS | <div align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50px" height="50px"> </div> |
   | Sass | <div align="center"> <img src="https://user-images.githubusercontent.com/115977341/215279608-a7cf27aa-53d7-4159-8198-c592cf006e9a.png" width="50px" height="50px"> </div> |
   | Bulma | <div align="center"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253567/bulma-icon-md.png" width="50px" height="75px"> </div> |
+  | <div align="center">- - -</div> | <div align="center">- - - - -</div> |
   | <h4 align="center">Back-End</h4> | <h4 align="center"> Technologies </h4> |
   | NodeJS | <div align="center"> <img src="https://user-images.githubusercontent.com/115977341/213268794-13c5eba2-47b4-4e6b-bd35-e680dc25d850.png" width="50px" height="50px"> </div> |
   | Express | <div align="center"> <img src="https://user-images.githubusercontent.com/115977341/213268782-c620c3a9-f321-4e08-90bd-d545336be168.png" width="50px" height="50px"> </div> |
   | PostgreSQL | <div align="center"> <img src="https://user-images.githubusercontent.com/115977341/213268807-b2716f0c-9999-4c56-ba22-5ea47c66f013.png" width="50px" height="50px"> </div> |
   | Sequelize | <div align="center"> <img src="https://camo.githubusercontent.com/e3da04972404cf681ab3f9512f69c72d1c20b4cabbc4b9e181c8d6f1718bf13f/68747470733a2f2f73657175656c697a652e6f72672f696d672f6c6f676f2e737667" width="50px" height="50px"> </div> |
   | GraphQL | <div align="center"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253862/graphql-icon-md.png" width="50px" height="60px"> </div> 
+  | <div align="center">- - -</div> | <div align="center">- - - - -</div> |
   | <h4 align="center">Validation / Test</h4> | <h4 align="center">Technologies</h4> |
   | Joi | <div align="center"> <img src="https://joi.dev/img/joiTransparent.png" width="50px" height="50px"> </div> |
   | Jest | <div align="center"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253956/jest-icon-md.png" width="50px" height="50px"> </div> |
+  | <div align="center">- - -</div> | <div align="center">- - - - -</div> |
   | <h4 align="center"> Softskills </h4> | <h4 align="center"> Description </h4> |
   | Curious | 👓 Always looking for new discoveries and new technologies to work with |
   | Perseverance | :muscle: Never fallback when facing challenges and difficulties |
