@@ -27,9 +27,10 @@
   | CSS3 | <div align="center"> <img src="https://user-images.githubusercontent.com/115977341/213268815-9d4e232f-9358-4079-88d6-bc6c00abfa7f.png" width="50px" height="50px"> </div> |
   | JS Vanilla | <div align="center"> <img src="https://user-images.githubusercontent.com/115977341/213268740-f35ac3ec-1b9c-4453-b9db-9afb5fa217e2.png" width="50px" height="50px"> </div> |
   | ReactJS | <div align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50px" height="50px"> </div> |
+  | React Router | <div align="center"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254272/react-router-icon-md.png" width="90px" height="50px"> </div> |
   | Redux (Toolkit) | <div align="center"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254287/redux-icon-md.png" width="50px" height="50px"> </div> |
   | Sass | <div align="center"> <img src="https://user-images.githubusercontent.com/115977341/215279608-a7cf27aa-53d7-4159-8198-c592cf006e9a.png" width="50px" height="50px"> </div> |
-  | Bulma | <div align="center"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253567/bulma-icon-md.png" width="50px" height="75px"> </div> |
+  | Bulma | <div align="center"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253567/bulma-icon-md.png" width="50px" height="85px"> </div> |
   | <div align="center">- - -</div> | <div align="center">- - - - -</div> |
   | <h4 align="center">Back-End</h4> | <h4 align="center"> Technologies </h4> |
   | NodeJS | <div align="center"> <img src="https://user-images.githubusercontent.com/115977341/213268794-13c5eba2-47b4-4e6b-bd35-e680dc25d850.png" width="50px" height="50px"> </div> |
