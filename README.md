@@ -8,7 +8,7 @@
 
 - 🌍 Living in France 
 
-- 🌱 Currently learning TypeScript
+- 🌱 Currently learning TypeScript and Vue
 
 - ⚡ Dynamic, perfectionist, enthusiatic and joyful !
 
