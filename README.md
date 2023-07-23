@@ -4,7 +4,7 @@
 ### About me
 - 💻 Web developer specializing in ReactJS and NodeJS !
 
-- 📖 Currently studying at Ecole O'Clock
+- 📖 Currently studying at Ecole O'Clock on a work study basis @LaParqueterieNouvelle
 
 - 🌍 Living in France 
 
