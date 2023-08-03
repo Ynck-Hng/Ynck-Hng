@@ -65,10 +65,6 @@
   
   ---
 
-[![Ynck-Hng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynck-hng&theme=tokyonight&count_private=true)](https://github.com/ynck-hng/github-readme-stats)
-  
-  ---
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynck-hng&layout=compact&theme=tokyonight)](https://github.com/ynck-hng/github-readme-stats)
 
 </div>
